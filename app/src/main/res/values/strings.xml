@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CustomPhoto</string>
+
+    <string name="touch_to_focus">触摸屏幕对焦</string>
+
+    <string name="crop_fail">裁剪失败</string>
+</resources>
